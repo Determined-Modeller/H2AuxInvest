@@ -3,7 +3,7 @@ An Open-Source Project to Develop Hydrogen Supply Chains
 
 **Collaborators - Please look at open issues, or email rhodri.hawkins@gchydrogen.co.uk for updates/permissions**
 
-We are here to help solve the problem of poor knowledge transfer in Scotland's Hydrogen Supply Chain
+_We are here to help solve the problem of poor knowledge transfer in Scotland's Hydrogen Supply Chain_
 
 **The Problem:**
 Developers do not have enough available information to risk purchasing low TRL components from small manufacturers.  
