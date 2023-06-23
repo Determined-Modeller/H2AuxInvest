@@ -1,7 +1,7 @@
 # H2AuxInvest
 An Open-Source Project to Develop Hydrogen Supply Chains
 
-**Collaborators - Please look at open issues, or email rhodri.hawkins@gchydrogen.co.uk for updates/permissions**
+**Collaborators - Please look at open issues, or email H2AuxInvest@gchydrogen.co.uk for updates/permissions**
 
 _We are here to help solve the problem of poor knowledge transfer in Scotland's Hydrogen Supply Chain_
 
