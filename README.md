@@ -1,4 +1,4 @@
-[image](https://github.com/Determined-Modeller/H2AuxInvest/assets/121934346/0919a200-c191-46a4-b2cb-820c79c9c23a)
+**H2AuxInvest**
 
 An Open-Source Project to Develop Hydrogen Supply Chains
 
